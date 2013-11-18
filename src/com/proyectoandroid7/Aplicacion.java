@@ -12,8 +12,6 @@ import android.view.View;
 
 public class Aplicacion extends Activity {
 	
-	public final static String NAME_VALUE = "com.proyectoandroid7.NAME_VALUE";
-	public final static String PASSWORD_VALUE = "com.proyectoandroid7.PASSWORD_VALUE";
 	
 
 	@Override
