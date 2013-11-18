@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProyectoAndroid7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="name">Nombre Usuario</string>
+    <string name="hint_name">Nombre Usuario</string>
+    <string name="Password">Password</string>
+    <string name="hint_password">Password</string>
+    <string name="Rut">Rut</string>
+    <string name="hint_rut">Rut</string>
+    <string name="correo">Correo</string>
+    <string name="hint_correo">Correo</string>
+    <string name="notes">Notes</string>
+    <string name="hint_notes">Notes</string>
+    <string name="add">Registrarse</string>
+    <string name="view">Ver Registros</string>
+    <string name="hint_profile">Profile</string>
+    <string name="hint_settings">Settings</string>
+    <string name="hint_logout">Logout !</string>
+    <string name="hint_save">Save</string>
+    <string name="title_settings">Requerimientos - Estadisticas </string>
+     <string name="checkBox1">Despertar</string>
+      <string name="checkBox2">Comer</string>
+       <string name="checkBox3">Dormir</string>
+    <string name="inicio">Login</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="sexo">Sexo</string>
+    <string name="calidad">Conocimientos en Android</string>
+
+</resources>

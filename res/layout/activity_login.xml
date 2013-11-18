@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="top"
+    android:orientation="vertical"
+     tools:context=".Login" >
+
+   <EditText
+        android:id="@+id/editnameLog"
+         android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:hint="@string/hint_name" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editpassLog"
+         android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword" >
+           <requestFocus />
+         </EditText>   
+         
+    <Button
+            android:id="@+id/iniciarLogin"
+            style="@style/AppTheme"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="onClick"
+            android:text="@string/inicio" />
+   
+  
+
+</LinearLayout>
