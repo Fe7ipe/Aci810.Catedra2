@@ -1,5 +1,7 @@
 package com.proyectoandroid7;
 
+
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
@@ -10,16 +12,15 @@ import android.view.View;
 
 public class Aplicacion extends Activity {
 	
-	public final static String NAME_VALUE = "com.android_cat2.NAME_VALUE";
-	public final static String PASSWORD_VALUE = "com.android_cat2.PASSWORD_VALUE";
-	
+	public final static String NAME_VALUE = "com.proyectoandroid7.NAME_VALUE";
+	public final static String PASSWORD_VALUE = "com.proyectoandroid7.PASSWORD_VALUE";
 	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_aplicacion);
-	
+		
 	}
 
 	@Override

@@ -74,9 +74,10 @@ public final class R {
         public static final int Password=0x7f050005;
         public static final int Rut=0x7f050007;
         public static final int action_settings=0x7f050001;
+        public static final int activo=0x7f05001a;
         public static final int add=0x7f05000d;
         public static final int app_name=0x7f050000;
-        public static final int calidad=0x7f05001b;
+        public static final int calidad=0x7f05001c;
         public static final int checkBox1=0x7f050014;
         public static final int checkBox2=0x7f050015;
         public static final int checkBox3=0x7f050016;
@@ -96,7 +97,7 @@ public final class R {
         public static final int male=0x7f050018;
         public static final int name=0x7f050003;
         public static final int notes=0x7f05000b;
-        public static final int sexo=0x7f05001a;
+        public static final int sexo=0x7f05001b;
         public static final int title_settings=0x7f050013;
         public static final int view=0x7f05000e;
     }

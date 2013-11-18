@@ -32,7 +32,7 @@ public class Profile extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_profile);
 	
-		 SharedPreferences sharedPref = getSharedPreferences("app", Context.MODE_PRIVATE);        
+		 SharedPreferences sharedPref = getSharedPreferences("me", Context.MODE_PRIVATE);        
 	     
 	     String name = sharedPref.getString(Registro.NAME_VALUE, "");        
 	     String correo = sharedPref.getString(Registro.PASSWORD_VALUE, "");

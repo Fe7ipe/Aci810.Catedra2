@@ -27,6 +27,7 @@
     <string name="inicio">Login</string>
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
+     <string name="activo">Actived ?</string>
     <string name="sexo">Sexo</string>
     <string name="calidad">Conocimientos en Android</string>
 
